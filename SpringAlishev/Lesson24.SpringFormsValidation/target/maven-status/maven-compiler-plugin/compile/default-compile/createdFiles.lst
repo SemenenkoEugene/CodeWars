@@ -1,0 +1,5 @@
+ru\alishev\springcourse\controllers\PeopleController.class
+ru\alishev\springcourse\models\Person.class
+ru\alishev\springcourse\config\SpringConfig.class
+ru\alishev\springcourse\dao\PersonDAO.class
+ru\alishev\springcourse\config\MySpringMvcDispatcherServletIntitializer.class

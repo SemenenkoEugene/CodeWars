@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="358071f6-c4e8-426d-a51f-ca31651594ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CodeWars/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/CodeWars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/src/kyu_6/CountCharactersInYourString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/src/kyu_6/DetectPangram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/src/kyu_6/Meeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/src/kyu_6/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/src/kyu_6/RectangleIntoSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/src/kyu_6/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/src/kyu_8/Cockroach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/src/kyu_8/Determine_offspring_sex_based_on_genes_XX_and_XY_chromosomes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/src/kyu_8/Even_or_Odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/src/kyu_8/FIXME_Replace_all_dots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/src/kyu_8/Find_Multiples_of_a_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/src/kyu_8/Find_the_smallest_integer_in_the_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/src/kyu_8/Is_it_even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/src/kyu_8/Remove_First_and_Last_Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/src/kyu_8/School_Paperwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWars/src/kyu_8/Stringy_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode/Leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAlishev/.idea/SpringAlishev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springboot/.idea/SpringBoot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YandexSprint/YandexSprint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YandexSprint/src/Sprint7_7/Theme1_4/Lesson5_8New/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../catsgram/src/main/java/ru/yandex/practicum/catsgram/controller/PostFeedController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../catsgram/src/main/java/ru/yandex/practicum/catsgram/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../catsgram/src/main/java/ru/yandex/practicum/catsgram/exception/InvalidEmailException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../catsgram/src/main/java/ru/yandex/practicum/catsgram/exception/PostNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../catsgram/src/main/java/ru/yandex/practicum/catsgram/exception/UserAlreadyExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../catsgram/src/main/java/ru/yandex/practicum/catsgram/exception/UserNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../catsgram/src/main/java/ru/yandex/practicum/catsgram/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../catsgram/src/main/java/ru/yandex/practicum/catsgram/service/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../catsgram/src/main/java/ru/yandex/practicum/catsgram/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http-servlets-starter/http-servlets-starter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-starter/jdbc-starter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jvm-arguments-test/jvm-arguments-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-10/lesson-10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-19/lesson-19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson20/lesson20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson27/lesson27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson27/src/com/dmdev/lesson27/lesson27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-lesson-11/oop-lesson-11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-lesson-15/oop-lesson-15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-lesson-7/oop-lesson-7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/java/ru/semenenko/rest/configuration/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/java/ru/semenenko/rest/configuration/MyWebInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/java/ru/semenenko/rest/controller/MyRESTController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/java/ru/semenenko/rest/dao/EmployeeDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/java/ru/semenenko/rest/dao/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/java/ru/semenenko/rest/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/java/ru/semenenko/rest/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/java/ru/semenenko/rest/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course2/spring_course2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/src/Calculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/src/Calculator/out/production/Calculator/Calculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/untitled4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catsgram/src/main/java/ru/yandex/practicum/catsgram/controller/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../catsgram/src/main/java/ru/yandex/practicum/catsgram/controller/PostController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catsgram/src/main/java/ru/yandex/practicum/catsgram/controller/SimpleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../catsgram/src/main/java/ru/yandex/practicum/catsgram/controller/SimpleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catsgram/src/main/java/ru/yandex/practicum/catsgram/model/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/../catsgram/src/main/java/ru/yandex/practicum/catsgram/model/Post.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2V3iNn3xiWkQooSAqHUvC4KrdxE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "develop",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="358071f6-c4e8-426d-a51f-ca31651594ed" name="Changes" comment="" />
+      <created>1694071133526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694071133526</updated>
+      <workItem from="1694071134550" duration="196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
